@@ -1,0 +1,5 @@
+bs4==0.0.1
+jupyter
+git+ssh://git@GIT/neukolln.git@T28030v2.0.1
+xmltodict==0.10.2
+requests
